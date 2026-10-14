@@ -37,7 +37,7 @@ DF_AL_RGF  = get_fiscal(year=ANOS, period=PERIODOS, cod=27, power=["E"])
 df_RGF_total = pd.concat([DF_AL_RGF, DF_SE_RGF, DF_BA_RGF])
 ```
 
-## 🛠️ Ferramentas
+## Ferramentas
 
 - Python 3.15
 - siconfipy (acesso à API do Siconfi)
@@ -53,7 +53,8 @@ pip install siconfipy pandas
 
 Depois, abra o notebook da pasta `Script - final` e execute as células em ordem.
 
-## 👤 Autor
+## Autor
 
 **Alexandre Albuquerque** – Economista | Mestrando em Economia Aplicada (UFAL)
-[LinkedIn](https://www.linkedin.com/in/SEU-PERFIL) · [GitHub](https://github.com/alexandre-albuquerque17)
+[LinkedIn](https://www.linkedin.com/in/alexandre-albuquerque-1814852a7/) 
+[GitHub](https://github.com/alexandre-albuquerque17)

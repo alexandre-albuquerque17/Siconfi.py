@@ -56,5 +56,5 @@ Depois, abra o notebook da pasta `Script - final` e execute as células em ordem
 ## Autor
 
 **Alexandre Albuquerque** – Economista | Mestrando em Economia Aplicada (UFAL)
-[LinkedIn](https://www.linkedin.com/in/alexandre-albuquerque-1814852a7/) 
-[GitHub](https://github.com/alexandre-albuquerque17)
+- [LinkedIn](https://www.linkedin.com/in/alexandre-albuquerque-1814852a7/) 
+- [GitHub](https://github.com/alexandre-albuquerque17)
